@@ -67,4 +67,4 @@ int main() {
 ![image](https://github.com/user-attachments/assets/0efbea20-2848-4f8f-8234-64179d871b6e)
 
 ## Result:
-The program is executed successfully.
+The program is to implement message authenthication code mac are executed successfully.
